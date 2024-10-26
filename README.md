@@ -1,4 +1,4 @@
-# CI/CD with Jenkins and ArgoCD
+# CI/CD with Jenkins and ArgoCD (Ongoing TBD)
 
 This repository demonstrates how to implement a Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins and ArgoCD. The first step is to install the NGINX Ingress Controller (to access Jenkins and ArgoCD on the web) on your Kubernetes cluster.
 
